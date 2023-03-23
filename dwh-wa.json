@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp+ V1.7.0",
-      "code": 2005,
+      "version": "DWHWhatsApp+ V1.7.2",
+      "code": 2006,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": "- Teaser DWHWhatsApp Updater "
+      "changelog": "- Teaser DWHWhatsApp Updater 1 "
     }
   ]
 }
