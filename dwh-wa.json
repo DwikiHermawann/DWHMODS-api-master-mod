@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp+ V1.7.0",
+      "version": "DWHWhatsApp+ V9.62",
       "code": 2005,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": "- Enabled Edit Message - Fixed...FULL CHANGELOG ON WEBSITE"
+      "changelog": "- Base FMWA Updated to 2.23.1.76 -IMPROVED Anti-Ban - Added a camera icon style on the home toolbar - Enabled Edit Message - Re-Added...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
