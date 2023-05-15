@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp+ V9.63",
-      "code": 2005,
+      "version": "DWHWhatsApp+ V9.65",
+      "code": 2006,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": " Base FMWA Updated to 2.23.1.76 - Re-Added...FULL CHANGELOG ON WEBSITE"
+      "changelog": " Improved More Anti-ban protection 🛡️ - Improved Anti-ban for people who are getting repeat 1hr ban - Improved home ios style design - Re-designed...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
