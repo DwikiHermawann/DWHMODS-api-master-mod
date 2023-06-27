@@ -1,10 +1,11 @@
 {
   "records": [
     {
-      "version": "DWHWhatsApp+ V9.65 EXTENDED",
-      "code": 2007,
+      "version": "DWHWhatsApp+ V9.70",
+      "code": 2008,
       "url": "http://bit.ly/DWHWhatsAppUpdate",
-      "changelog": " The application expiration date has been extended - Improved More Anti-ban protection 🛡️ - Improved Anti-ban for people who are getting repeat 1hr ban - Improved home ios style design - Re-designed...FULL CHANGELOG ON WEBSITE"
+      "changelog": " Added iOS 2023 Emojis pack (FMMods > Universal > Styles) - Improved IOS homepage style display (95%) - [Enabled] Pin Message in private chats - [Exclusive] Media Backup/Restore option (Images, Videos, etc.) 
+—> FMWA > Universal > Backup and Restore...FULL CHANGELOG ON WEBSITE"
     }
   ]
 }
